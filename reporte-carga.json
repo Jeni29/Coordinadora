@@ -1,0 +1,183 @@
+{
+  "aggregate": {
+    "counters": {
+      "vusers.created_by_name.Crear guía con datos válidos": 120,
+      "vusers.created": 120,
+      "http.requests": 120,
+      "plugins.metrics-by-endpoint./guias/cm-guias-ms/guia.errors.ETIMEDOUT": 120,
+      "errors.ETIMEDOUT": 120,
+      "vusers.failed": 120
+    },
+    "rates": {
+      "http.request_rate": 2
+    },
+    "firstCounterAt": 1751228914635,
+    "lastCounterAt": 1751228983711,
+    "firstMetricAt": 1751228914635,
+    "lastMetricAt": 1751228983711,
+    "period": 1751228980000,
+    "summaries": {},
+    "histograms": {}
+  },
+  "intermediate": [
+    {
+      "counters": {
+        "vusers.created_by_name.Crear guía con datos válidos": 12,
+        "vusers.created": 12,
+        "http.requests": 12
+      },
+      "rates": {
+        "http.request_rate": 2
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1751228914635,
+      "lastCounterAt": 1751228919697,
+      "firstMetricAt": 1751228914635,
+      "lastMetricAt": 1751228919697,
+      "period": "1751228910000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Crear guía con datos válidos": 20,
+        "vusers.created": 20,
+        "http.requests": 20,
+        "plugins.metrics-by-endpoint./guias/cm-guias-ms/guia.errors.ETIMEDOUT": 12,
+        "errors.ETIMEDOUT": 12,
+        "vusers.failed": 12
+      },
+      "rates": {
+        "http.request_rate": 2
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1751228920634,
+      "lastCounterAt": 1751228929711,
+      "firstMetricAt": 1751228920634,
+      "lastMetricAt": 1751228929711,
+      "period": "1751228920000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Crear guía con datos válidos": 20,
+        "vusers.created": 20,
+        "http.requests": 20,
+        "plugins.metrics-by-endpoint./guias/cm-guias-ms/guia.errors.ETIMEDOUT": 20,
+        "errors.ETIMEDOUT": 20,
+        "vusers.failed": 20
+      },
+      "rates": {
+        "http.request_rate": 2
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1751228930634,
+      "lastCounterAt": 1751228939695,
+      "firstMetricAt": 1751228930634,
+      "lastMetricAt": 1751228939695,
+      "period": "1751228930000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Crear guía con datos válidos": 20,
+        "vusers.created": 20,
+        "http.requests": 20,
+        "plugins.metrics-by-endpoint./guias/cm-guias-ms/guia.errors.ETIMEDOUT": 20,
+        "errors.ETIMEDOUT": 20,
+        "vusers.failed": 20
+      },
+      "rates": {
+        "http.request_rate": 2
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1751228940634,
+      "lastCounterAt": 1751228949694,
+      "firstMetricAt": 1751228940634,
+      "lastMetricAt": 1751228949694,
+      "period": "1751228940000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Crear guía con datos válidos": 20,
+        "vusers.created": 20,
+        "http.requests": 20,
+        "plugins.metrics-by-endpoint./guias/cm-guias-ms/guia.errors.ETIMEDOUT": 20,
+        "errors.ETIMEDOUT": 20,
+        "vusers.failed": 20
+      },
+      "rates": {
+        "http.request_rate": 2
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1751228950634,
+      "lastCounterAt": 1751228959694,
+      "firstMetricAt": 1751228950634,
+      "lastMetricAt": 1751228959694,
+      "period": "1751228950000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Crear guía con datos válidos": 20,
+        "vusers.created": 20,
+        "http.requests": 20,
+        "plugins.metrics-by-endpoint./guias/cm-guias-ms/guia.errors.ETIMEDOUT": 20,
+        "errors.ETIMEDOUT": 20,
+        "vusers.failed": 20
+      },
+      "rates": {
+        "http.request_rate": 2
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1751228960634,
+      "lastCounterAt": 1751228969694,
+      "firstMetricAt": 1751228960634,
+      "lastMetricAt": 1751228969694,
+      "period": "1751228960000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Crear guía con datos válidos": 8,
+        "vusers.created": 8,
+        "http.requests": 8,
+        "plugins.metrics-by-endpoint./guias/cm-guias-ms/guia.errors.ETIMEDOUT": 20,
+        "errors.ETIMEDOUT": 20,
+        "vusers.failed": 20
+      },
+      "rates": {
+        "http.request_rate": 2
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1751228970636,
+      "lastCounterAt": 1751228979703,
+      "firstMetricAt": 1751228970636,
+      "lastMetricAt": 1751228979703,
+      "period": "1751228970000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "plugins.metrics-by-endpoint./guias/cm-guias-ms/guia.errors.ETIMEDOUT": 8,
+        "errors.ETIMEDOUT": 8,
+        "vusers.failed": 8
+      },
+      "rates": {},
+      "firstCounterAt": 1751228980650,
+      "lastCounterAt": 1751228983711,
+      "firstMetricAt": 1751228980650,
+      "lastMetricAt": 1751228983711,
+      "period": "1751228980000",
+      "summaries": {},
+      "histograms": {}
+    }
+  ]
+}

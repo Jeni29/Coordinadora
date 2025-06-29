@@ -1,0 +1,21 @@
+{
+  "name": "pruebas-playwright-screenplay",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1"
+  },
+  "dependencies": {
+    "@serenity-js/core": "^3.32.2",
+    "@serenity-js/rest": "^3.32.2",
+    "@serenity-js/web": "^3.32.2",
+    "axios": "^1.10.0"
+  }
+}

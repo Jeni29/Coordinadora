@@ -1,0 +1,73 @@
+{
+  "testRunId": "tcxdn_wydjyrf3nne598f9wcw58mqxxx4rn_fpd3",
+  "duracionTotal": "1 minuto, 11 segundos",
+  "metricasPorPeriodo": [
+    {
+      "periodo": "15:08:10",
+      "requestRate": "15/sec",
+      "httpRequests": 88,
+      "vusersCreated": 88
+    },
+    {
+      "periodo": "15:08:20",
+      "requestRate": "27/sec",
+      "httpRequests": 263,
+      "errorsETIMEDOUT": 88,
+      "vusersCreated": 264,
+      "vusersFailed": 88
+    },
+    {
+      "periodo": "15:08:30",
+      "requestRate": "42/sec",
+      "httpRequests": 414,
+      "errorsETIMEDOUT": 263,
+      "vusersCreated": 413,
+      "vusersFailed": 263
+    },
+    {
+      "periodo": "15:08:40",
+      "requestRate": "57/sec",
+      "httpRequests": 565,
+      "errorsETIMEDOUT": 414,
+      "vusersCreated": 565,
+      "vusersFailed": 414
+    },
+    {
+      "periodo": "15:08:50",
+      "requestRate": "71/sec",
+      "httpRequests": 713,
+      "errorsETIMEDOUT": 565,
+      "vusersCreated": 713,
+      "vusersFailed": 565
+    },
+    {
+      "periodo": "15:09:00",
+      "requestRate": "87/sec",
+      "httpRequests": 864,
+      "errorsETIMEDOUT": 713,
+      "vusersCreated": 864,
+      "vusersFailed": 713
+    },
+    {
+      "periodo": "15:09:10",
+      "requestRate": "98/sec",
+      "httpRequests": 393,
+      "errorsETIMEDOUT": 863,
+      "vusersCreated": 393,
+      "vusersFailed": 863
+    },
+    {
+      "periodo": "15:09:20",
+      "errorsETIMEDOUT": 394,
+      "vusersFailed": 394
+    }
+  ],
+  "resumenFinal": {
+    "timestamp": "15:09:15",
+    "totalErrorsETIMEDOUT": 3300,
+    "httpRequestRate": "50/sec",
+    "httpRequestsTotales": 3300,
+    "usuariosCreados": 3300,
+    "usuariosFallidos": 3300
+  }
+}
